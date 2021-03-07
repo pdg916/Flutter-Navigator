@@ -1,8 +1,11 @@
-# navigator
-
-A new Flutter project.
+# Flutter Navigator
+\*Flutter Navigator
 
 ## Getting Started
+
+<hr/>
+<img src="Navigator.png"></img>
+<hr/>
 
 This project is a starting point for a Flutter application.
 
